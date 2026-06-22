@@ -2,6 +2,8 @@
 
 基于开源项目 [visioncortex/vtracer](https://github.com/visioncortex/vtracer) v0.6.4 二次开发的 Windows 本地桌面应用，可将 PNG / JPG / BMP / GIF / WEBP / TIFF 等位图转换为 SVG 矢量图。
 
+<img width="1407" height="852" alt="111530d6ea31a426f59283a072baed4c" src="https://github.com/user-attachments/assets/54d0394e-bd8a-46de-9394-aa9ef8ad0d41" />
+
 ## ✨ 功能特性
 
 - **图片上传**：点击按钮或直接拖拽图片到窗口即可加载
