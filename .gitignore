@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# WorkBuddy internal
+.workbuddy/
+
+# Logs & temp
+*.log
+tmp/
+*.tmp
+
+# Note: vtracer.exe (核心二进制依赖) 需要随源码提交，不忽略
+# Note: assets/icon.* 需要随源码提交，不忽略
